@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Todo List with Create-React-App
+> A react todo-list project created with the Create-React-App cli. it uses props, state, hooks and also deployed with Gitub pages.
 
-## Available Scripts
+## Built With
+
+[Create React App](https://github.com/facebook/create-react-app).
+- ReactJS
+- CSS
+
+## Getting Started
 
 In the project directory, you can run:
 
@@ -45,26 +52,19 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- GIT, NODE, NPM
 
-### Analyzing the Bundle Size
+👤 **Author**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- GitHub: [@ShedrackSunday](https://github.com/ShedrackSunday)
+- Twitter: [@DeleSundayS](https://twitter.com/ShedrackSunday)
+- LinkedIn: [ShedrckSunday](https://linkedin.com/in/ShedrackSunday)
 
-### Making a Progressive Web App
+## Show your support
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📝 License
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./MIT.md) license
